@@ -3,7 +3,7 @@
   "version": 2,
   "functions": {
     "api/index.php": {
-      "runtime": "nodejs16.x"
+      "runtime": `now-php@1.0.0`
     }
   },
   "routes": [
