@@ -11,5 +11,10 @@
       "src": "/(.*)",
       "dest": "/api/index.php"
     }
-  ]
+  ],
+  "functions": {
+    "api/index": {
+      "runtime": "nodejs16.x"
+    }
+  }
 }
